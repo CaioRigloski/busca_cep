@@ -1,0 +1,19 @@
+{
+  "name": "aula_jquery_ajax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaioRigloski/AULA_jQUERY_AJAX.git"
+  },
+  "author": "Caio Rigloski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaioRigloski/AULA_jQUERY_AJAX/issues"
+  },
+  "homepage": "https://github.com/CaioRigloski/AULA_jQUERY_AJAX#readme"
+}
